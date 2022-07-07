@@ -354,8 +354,7 @@ mínimo del 50% de _branches_ (ramas).
 ### Primeros pasos
 
 1. Antes que nada, asegúrate de tener un :pencil: editor de texto en
-   condiciones, algo como [Atom](https://atom.io/) o
-   [Code](https://code.visualstudio.com/).
+   condiciones, algo como [Code](https://code.visualstudio.com/).
 2. Para ejecutar los comandos a continuación necesitarás una :shell:
    [UNIX Shell](https://curriculum.laboratoria.la/es/topics/shell),
    que es un programita que interpreta líneas de comando (command-line
