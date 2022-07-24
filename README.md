@@ -16,9 +16,6 @@ Satisface una necesidad, de mejorar transporte con agilidad y comodidad.
 
 Mi proyecto a lapiz fue el siguiente:
 
-![image](https://user-images.githubusercontent.com/108738411/180633012-1fb46a4c-4270-4d0c-bb03-f082e996cf6a.png)
-
-
 
 
 
@@ -26,6 +23,10 @@ Mi proyecto a lapiz fue el siguiente:
 Mi prototipo inicial:
 
 
+![image](https://user-images.githubusercontent.com/108738411/180633033-f1278117-564b-4d3c-854d-6964825f1fc1.png)
+
+
+![image](https://user-images.githubusercontent.com/108738411/180633064-b4772444-1e18-4222-b8be-2455472f8c5f.png)
 
 
 
