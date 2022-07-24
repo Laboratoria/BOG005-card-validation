@@ -26,7 +26,14 @@ Mi prototipo inicial:
 ![image](https://user-images.githubusercontent.com/108738411/180633033-f1278117-564b-4d3c-854d-6964825f1fc1.png)
 
 
-![image](https://user-images.githubusercontent.com/108738411/180633064-b4772444-1e18-4222-b8be-2455472f8c5f.png)
+![Prototipo2](https://user-images.githubusercontent.com/108738411/180633152-2bf6cafc-7ada-469f-98c1-a3adf2f09e17.jpg)
+
+
+
+
+
+
+
 
 
 
