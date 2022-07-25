@@ -37,6 +37,7 @@ Prototipo final:
 
 
 
+![Tarjeta valida2](https://user-images.githubusercontent.com/108738411/180782596-3405afb1-8a82-4c34-adc4-8de4694330af.jpg)
 
 
 
