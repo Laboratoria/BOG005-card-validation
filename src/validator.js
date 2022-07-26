@@ -1,7 +1,7 @@
 
 let validator = {
   isValid: (creditCardNumber) => {
-
+    debugger
     let reverseTarjeta = creditCardNumber.toString().split("").reverse();
     console.log(reverseTarjeta)
     let valor = 0;
@@ -28,27 +28,26 @@ let validator = {
 
       } else {
         valor = valor + parseInt(item);
-      } 
-          
-    }) 
-    if( valor % 10 === 0){
+      }
+      debugger
+    })
+    if (valor % 10 === 0) {
       return true;
     } else {
       return false;
     }
-    
+
   },
-  maskify:(creditCardNumber) => {
-  let maskify= " ";
-  for (let i = 0; i <= creditCardNumber.length; i++) {
-    if (i <= creditCardNumber.length - 4) {
-      maskify = maskify + "#"
-    } else {
-      maskify = maskify + creditCardNumber[i];
-    }
-  } console.log(maskify)
-  return maskify;
-} 
+  maskify: (creditCardNumber) => {
+    let maskify = "";
+    for (let i = 0; i < creditCardNumber.length; i++) {
+      if (i <= creditCardNumber.length - 5) {
+        maskify = maskify + "#"
+      } else {
+        maskify = maskify + creditCardNumber[i];
+      }
+    } return maskify;
+  }
 }
 
 // ...  
