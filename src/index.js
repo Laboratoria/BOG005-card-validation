@@ -8,6 +8,7 @@ let creditCard= document.getElementById("creditCard1").value;
 let textoResultado= "";
 if (creditCard == null || creditCard == ""){
  alert("Los datos son requeridos.");
+ return;
  } else{
     alert("Validando" + " " + creditCard)
  }
